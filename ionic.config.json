@@ -1,0 +1,7 @@
+{
+  "name": "demo-app-with-ionic-framework",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
